@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @oluwatomilolami
+- 👋 Hi, I’m Tomilola
 - 👀 I’m interested in ... programming 
-- 🌱 I’m currently learning ... back end code 
+- 🌱 i am a full stack web developer 
 - 💞️ I’m looking to collaborate on ... web developing 
 - 📫 How to reach me ... phone: +2349072696065
 
