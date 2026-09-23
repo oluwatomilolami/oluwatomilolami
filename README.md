@@ -146,15 +146,6 @@ digital experiences.
 
 <br/><br/>
 
-<a href="https://github.com/oluwatomilolami">
-  <img src="https://github-readme-stats.vercel.app/api?username=oluwatomilolami&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB" width="48%" />
-</a>
-
-<a href="https://github.com/oluwatomilolami">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatomilolami&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" width="48%" />
-</a>
-
-</div>
 
 ---
 
